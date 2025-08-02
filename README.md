@@ -14,7 +14,7 @@
 
 - Stats Tracking: Tracks total games played, wins, win distribution, and streaks.
 
-### Below are key screens from the app:
+### Below are images of the app:
 
 Start Screen
 
