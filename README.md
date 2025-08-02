@@ -4,15 +4,15 @@
 
 ### Features
 
-Daily Puzzle: Solve one unique equation per day (e.g., "12+57=69").
+- Daily Puzzle: Solve one unique equation per day (e.g., "12+57=69").
 
-Feedback System: Tiles turn green (correct position), yellow (wrong position), or red (not in solution).
+- Feedback System: Tiles turn green (correct position), yellow (wrong position), or red (not in solution).
 
-Toast Notification: Displays "You already completed your daily puzzle! Come back tomorrow." if you try to play again.
+- Toast Notification: Displays "You already completed your daily puzzle! Come back tomorrow." if you try to play again.
 
-Endgame Screen: Shows "Solved in X tries" on win or "Good Try..." on loss.
+- Endgame Screen: Shows "Solved in X tries" on win or "Good Try..." on loss.
 
-Stats Tracking: Tracks total games played, wins, win distribution, and streaks.
+- Stats Tracking: Tracks total games played, wins, win distribution, and streaks.
 
 ### Below are key screens from the app:
 
