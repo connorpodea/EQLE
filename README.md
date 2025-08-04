@@ -12,7 +12,7 @@
 
 ### Below are images of the app:
 
-![Start Screen](![IMG_7356](https://github.com/user-attachments/assets/b9729889-2c15-4725-b798-b6bd6ce16044))
+(![IMG_7356](https://github.com/user-attachments/assets/b9729889-2c15-4725-b798-b6bd6ce16044))
 ![Game Screen](images/IMQ_7358.jpg)
 ![Endgame Screen](images/IMQ_7360.jpg)
 ![Stats Screen](images/IMQ_7357.jpg)
