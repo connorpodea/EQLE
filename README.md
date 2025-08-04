@@ -12,10 +12,11 @@
 
 ### Below are images of the app:
 
-(![IMG_7356](https://github.com/user-attachments/assets/b9729889-2c15-4725-b798-b6bd6ce16044))
-![Game Screen](images/IMQ_7358.jpg)
-![Endgame Screen](images/IMQ_7360.jpg)
-![Stats Screen](images/IMQ_7357.jpg)
-![Help Screen](images/IMQ_7359.jpg)
+![IMG_7356](https://github.com/user-attachments/assets/b9729889-2c15-4725-b798-b6bd6ce16044)
+![IMG_7359](https://github.com/user-attachments/assets/5939fc2b-458e-4660-a661-db0a3dd3443b)
+![IMG_7358](https://github.com/user-attachments/assets/bcfb59a8-9c3a-4124-baa5-0366987a1c98)
+![IMG_7360](https://github.com/user-attachments/assets/6418dd7e-b207-4a8f-966f-d780a936892f)
+![IMG_7357](https://github.com/user-attachments/assets/c07dc5af-1236-4114-8476-3296e545da0e)
+
 
 ### Watch a short demo of EQLE in action: Watch on YouTube (Replace with your video link)
