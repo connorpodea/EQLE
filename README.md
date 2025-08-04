@@ -12,24 +12,10 @@
 
 ### Below are images of the app:
 
-Start Screen
-
-
-
-Game Screen
-
-
-
-Endgame Screen
-
-
-
-Stats View
-
-
-
-Help Screen
-
-
+![Start Screen](images/IMQ_7356.jpg)
+![Game Screen](images/IMQ_7358.jpg)
+![Endgame Screen](images/IMQ_7360.jpg)
+![Stats Screen](images/IMQ_7357.jpg)
+![Help Screen](images/IMQ_7359.jpg)
 
 ### Watch a short demo of EQLE in action: Watch on YouTube (Replace with your video link)
