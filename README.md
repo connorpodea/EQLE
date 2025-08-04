@@ -10,4 +10,4 @@
 
 - Stats Tracking: Tracks total games played, wins, win distribution, and streaks.
 
-### Watch a short demo of EQLE in action: Watch on YouTube (https://youtu.be/s9XnXaGG1LQ)
+### Watch a short demo of EQLE in action: Watch on YouTube (https://youtu.be/u0Q9tZpaYkY)
